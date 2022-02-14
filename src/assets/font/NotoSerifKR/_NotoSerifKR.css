@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Noto Serif KR';
+    src: url('NotoSerifKR-ExtraLight.otf');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "Noto Serif KR";
+    src: url('NotoSerifKR-Light.otf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Noto Serif KR";
+    src: url('NotoSerifKR-Regular.otf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Noto Serif KR";
+    src: url('NotoSerifKR-Medium.otf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Noto Serif KR";
+    src: url('NotoSerifKR-SemiBold.otf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Noto Serif KR";
+    src: url('NotoSerifKR-Bold.otf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Noto Serif KR";
+    src: url('NotoSerifKR-Black.otf');
+    font-weight: 900;
+}
